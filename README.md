@@ -1,6 +1,6 @@
 # Website Screenshots
 ![Screenshot](preview0.jpg)
-![Screenshot](preview1.jpg)
+![Screenshot](preview2.png)
 
 
 # Getting Started with Create React App
