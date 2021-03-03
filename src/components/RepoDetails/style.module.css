@@ -1,0 +1,12 @@
+.container {
+  max-width: 300px;
+  padding: 8px;
+}
+
+.container:nth-child(odd) {
+  background-color: #ebeef1;
+}
+
+.desc {
+  word-break: break-all;
+}
